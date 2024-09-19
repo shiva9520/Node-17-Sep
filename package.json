@@ -1,0 +1,18 @@
+{
+  "name": "node-17-sep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.2",
+    "node-17-sep": "file:",
+    "nodemon": "^3.1.4"
+  }
+}
